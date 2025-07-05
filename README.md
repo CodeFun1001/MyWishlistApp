@@ -23,8 +23,10 @@ A simple Android Wishlist Manager built with 💖 using **Jetpack Compose**, **R
 
 ### Add Wish Screen
 <img src="Screenshots/add_wish.png" width="300" />
+
 ### Update Wish Screen
 <img src="Screenshots/update_wish.png" width="300" />
+
 ### Delete Wish
 <img src="Screenshots/delete_wish.png" width="300" />
 
